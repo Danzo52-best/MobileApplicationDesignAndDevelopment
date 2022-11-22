@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215551007684",
+    "firebase_url": "https://expanse-eb493-default-rtdb.firebaseio.com",
+    "project_id": "expanse-eb493",
+    "storage_bucket": "expanse-eb493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215551007684:android:aba5fa10e856ddec26e291",
+        "android_client_info": {
+          "package_name": "vn.edu.greenwich.cw_1_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215551007684-2lds8pq4samggpdspouiils58nsqdj32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaB72dwayVT_gR6c5UPz6jtrffRWTYnoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215551007684-2lds8pq4samggpdspouiils58nsqdj32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
